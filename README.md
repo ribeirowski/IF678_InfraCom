@@ -1,5 +1,5 @@
-# IF678_InfraCom
-Repositório dedicado à disciplina de Infraestrutura de Comunicações
+# IF678 - Infraestrutura de Comunicações
+Primeira entrega do projeto de Infracom
 
 ### 1. Rodar o servidor:
 - abrir o terminal dentro da pasta do projeto
@@ -22,3 +22,13 @@ Repositório dedicado à disciplina de Infraestrutura de Comunicações
 
 ### 5. Observações:
 - nos terminais do cliente e servidor, pode ser visto a quantidade de pacotes que são enviados e recebidos
+
+##
+
+### Equipe:
+- Ênio Henrique Nunes Ribeiro
+- Filipe Maciel Leicht
+- Maria Leticia do Nascimento Gaspar
+- Thiago Jose Grangeiro Costa
+- Victoria Barbosa Cesar Figueiredo
+- Vinicius Alves Fialho
